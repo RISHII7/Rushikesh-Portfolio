@@ -49,7 +49,7 @@ export const gridItems = [
 
     {
         id: 5,
-        title: "Currently building a Healthcare Platform",
+        title: "Currently building a Slack Clone",
         description: "The Inside Scoop",
         className: "md:col-span-3 md:row-span-2",
         imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -88,19 +88,19 @@ export const projects = [
     },
     {
         id: 3,
-        title: "Game-Hub ",
-        des: "Online streaming platform where you can stream and showcase your gaming skills",
+        title: "Yoom - Video Conferencing App",
+        des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
         img: "/p3.svg",
-        iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/c.svg"],
-        link: "https://gamehub-jet.vercel.app/",
+        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+        link: "https://yoom-ruddy.vercel.app/",
     },
     {
         id: 4,
-        title: "Portfolio",
-        des: "My personal Portfolio created using Next.js to showcase my skills as a frontend developer",
+        title: "Fizzi - Soda for Gutsy People",
+        des: "Discover the refreshing taste of Fizzi, focused on gut health, featuring low-calorie, big flavor drinks made with natural ingredients.",
         img: "/p4.svg",
-        iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-        link: "https://nextportfolio-pearl.vercel.app/",
+        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+        link: "https://fizzie.vercel.app/",
     },
 ];
 
